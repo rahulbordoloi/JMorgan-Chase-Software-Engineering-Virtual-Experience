@@ -1,0 +1,2 @@
+In the Future, I wish to Contribute to JP Morgan Chase by developing a Module in Machine Learning using Python to predict stocks better and also visualize them in a much simpler way. It'll show the probable boundations (upper and lower) according to the exponential average and thus help us to get nearly accurate results.
+Thank You.
